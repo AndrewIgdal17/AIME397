@@ -1,0 +1,84 @@
+﻿Balancing Authority,BA,DOE_HGM Region,FERC_1000 Regions,Notes
+"Alcoa Power Generating, Inc. - Yadkin Division",YAD,Carolinas (CAR),SERTP,only generation data
+"Arizona Public Service Company",AZPS,Southwest (SW),WestConnect,
+"Arlington Valley, LLC",DEAA,Southwest (SW),WestConnect,only generation data
+"Associated Electric Cooperative, Inc.",AECI,Midwest (MIDW),SERTP,
+"Avangrid Renewables, LLC",AVRN,Northwest (NW),NorthernGrid,only generation data
+"Avista Corporation",AVA,Northwest (NW),NorthernGrid,
+"Balancing Authority of Northern California",BANC,California (CAL),WestConnect,This is also SMUD -- and is in WestConnect
+"Black Hills Colorado Electric Utility Company, LP",,,WestConnect,
+"Black Hills Power, Inc.",,,WestConnect,
+"Bonneville Power Administration",BPAT,Northwest (NW),NorthernGrid,
+"Canada - Alberta",AESO,,AESO,
+"Canada - BC",BCHA,,BCHA,
+"Canada - MB",MHEB,,MHEB,
+"Canada - NB",NBSO,,NBSO,
+"Canada - ON",IESO,,IESO,
+"Canada - Quebec",HQT,,HQT,
+"Canada - SK",SPC,,SPC,
+"California Independent System Operator",CISO,California (CAL),CAISO,
+"Cheyenne Light Fuel & Power Company",,,WestConnect,
+"City of Homestead",HST,Florida (FLA),FRCC,
+"City of Tallahassee",TAL,Florida (FLA),FRCC,
+"City of Tacoma, Department of Public Utilities, Light Division",TPWR,Northwest (NW),NorthernGrid,
+"Dominion Energy South Carolina, Inc.",SCEG,Carolinas (CAR),SCRTP,
+"Duke Energy Carolinas",DUK,Carolinas (CAR),SERTP,also referenced by SCRTP
+"Duke Energy Florida, Inc.",FPC,Florida (FLA),FRCC,"Exists as a planning region, even though they turned NERC responsibilities over to SERC."
+"Duke Energy Progress East",CPLE,Carolinas (CAR),SERTP,also referenced by SCRTP
+"Duke Energy Progress West",CPLW,Carolinas (CAR),SERTP,also referenced by SCRTP
+"Electric Energy, Inc.",EEI,Midwest (MIDW),,retired
+"Electric Reliability Council of Texas, Inc.",ERCO,Texas (TEX),ERCOT,not part of Order 1000
+"El Paso Electric Company",EPE,Southwest (SW),WestConnect,
+"Florida Municipal Power Pool",FMPP,Florida (FLA),FRCC,Does FRCC still exist?
+"Florida Power & Light Co.",FPL,Florida (FLA),FRCC,
+"Gainesville Regional Utilities",GVL,Florida (FLA),FRCC,
+"Gila River Power, LLC",GRMA,Southwest (SW),WestConnect,retired
+"Gridforce Energy Management, LLC",GRID,Northwest (NW),NorthernGrid,only generation data
+"GridLiance",GLHB,Midwest (MIDW),,"retired -- most of these were failed regional markets (ie, proposed, but never adopted)"
+"Griffith Energy, LLC",GRIF,Southwest (SW),WestConnect,only generation data
+"Gulf Power",GULF,,SERTP,
+"Idaho Power Company",IPCO,Northwest (NW),NorthernGrid,
+"Imperial Irrigation District",IID,California (CAL),WestConnect,"not part of Order 1000 -- non public utility entities file ""reciprocity tariffs"" LDWP's Attachment K says that they plan as part of WestConnect - http://regplanning.westconnect.com/pmc_members.htm"
+"ISO NEW ENGLAND INC.",ISNE,New England (NE),ISO-NE,
+"JEA",JEA,Florida (FLA),FRCC,
+"Los Angeles Department of Water and Power",LDWP,California (CAL),WestConnect,"not part of Order 1000 -- non public utility entities file ""reciprocity tariffs"" LDWP's Attachment K says that they plan as part of WestConnect - http://regplanning.westconnect.com/pmc_members.htm"
+"Louisville Gas and Electric Company and Kentucky Utilities",LGEE,Midwest (MIDW),SERTP,
+"Mexico",CEN,,CEN,
+"MIDCONTINENT INDEPENDENT TRANSMISSION SYSTEM OPERATOR, INC..",MISO,Midwest (MIDW),MISO,
+"NaturEner Power Watch, LLC",GWA,Northwest (NW),NorthernGrid,only generation data
+"NaturEner Wind Watch, LLC",WWA,Northwest (NW),NorthernGrid,only generation data
+"Nevada Power Company",NEVP,Northwest (NW),NorthernGrid,
+"New Harquahala Generating Company, LLC",HGMA,Southwest (SW),WestConnect,only generation data
+"New York Independent System Operator",NYIS,New York (NY),NYISO,
+"NorthWestern Corporation",NWMT,Northwest (NW),NorthernGrid,
+"Ohio Valley Electric Corporation",OVEC,Mid-Atlantic (MIDA),PJM,retired
+"PacifiCorp East",PACE,Northwest (NW),NorthernGrid,
+"PacifiCorp West",PACW,Northwest (NW),NorthernGrid,
+"PJM Interconnection, LLC",PJM,Mid-Atlantic (MIDA),PJM,
+"Portland General Electric Company",PGE,Northwest (NW),NorthernGrid,
+"PowerSouth Energy Cooperative",AEC,Southeast (SE),SERTP,retired
+"Public Service Company of Colorado",PSCO,Northwest (NW),WestConnect,
+"Public Service Company of New Mexico",PNM,Southwest (SW),WestConnect,
+"Public Utility District No. 1 of Chelan County",CHPD,Northwest (NW),NorthernGrid,
+"PUD No. 1 of Douglas County",DOPD,Northwest (NW),NorthernGrid,
+"Public Utility District No. 2 of Grant County, Washington",GCPD,Northwest (NW),NorthernGrid,
+"Puget Sound Energy, Inc.",PSEI,Northwest (NW),NorthernGrid,
+"Salt River Project Agricultural Improvement and Power District",SRP,Southwest (SW),WestConnect,
+"Seattle City Light",SCL,Northwest (NW),NorthernGrid,
+"Seminole Electric Cooperative",SEC,Florida (FLA),FRCC,
+"Snohomish County PUD",,,NorthernGrid,
+"South Carolina Public Service Authority",SC,Carolinas (CAR),SCRTP,
+"Southeastern Power Administration",SEPA,Southeast (SE),SERTP,only generation data
+"Southern",SBAA,,SERTP,
+"Southern Company Services, Inc. - Trans",SOCO,Southeast (SE),SERTP,
+"Southwest Power Pool",SWPP,Central (CENT),SPP,
+"Southwestern Power Administration",SPA,Central (CENT),SPP,Part of SPP for planning purposes
+"Tampa Electric Company",TEC,Florida (FLA),FRCC,
+"Tennessee Valley Authority",TVA,Tennessee (TEN),SERTP,
+"Tucson Electric Power",TEPC,Southwest (SW),WestConnect,
+"Turlock Irrigation District",TIDC,California (CAL),WestConnect,"Part of Transmission Agency of Northern California, which is part of WestConnect"
+"UNS Electric, Inc.",,,WestConnect,
+"Utilities Commission of New Smyrna Beach",NSB,Florida (FLA),FRCC,retired
+"Western Area Power Administration - Desert Southwest Region",WALC,Southwest (SW),WestConnect,
+"Western Area Power Administration - Rocky Mountain Region",WACM,Northwest (NW),WestConnect,
+"Western Area Power Administration - Upper Great Plains West",WAUW,Northwest (NW),WestConnect,
